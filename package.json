@@ -1,5 +1,5 @@
 {
-  "name": "@nestjs-modules/mailer",
+  "name": "@transway/fork-node-mailer",
   "version": "1.5.1",
   "private": false,
   "description": "NestJS - a mailer module (@mailer)",
@@ -9,13 +9,13 @@
     "mailer",
     "nodejs"
   ],
-  "homepage": "https://github.com/nest-modules/mailer#readme",
+  "homepage": "https://github.com/Gypp/mailer#readme",
   "bugs": {
-    "url": "https://github.com/nest-modules/mailer/issues"
+    "url": "https://github.com/Gypp/mailer/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nest-modules/mailer.git"
+    "url": "git+https://github.com/Gypp/mailer.git"
   },
   "license": "MIT",
   "author": "Nest Modules TM",
