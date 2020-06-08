@@ -36,7 +36,7 @@ export class HandlebarsAdapter implements TemplateAdapter {
 
       if (!this.precompiledTemplates[templateName]) {
         try {
-          const template = fs.readFileSync(templatePath, 'UTF-8');
+          const template = fs.readFileSync(templatePath, 'utf-8');
 
           this.precompiledTemplates[templateName] = handlebars.compile(
             template,
