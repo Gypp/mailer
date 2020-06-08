@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/Gypp/mailer/compare/v1.5.1...v1.6.0) (2020-06-08)
+
+
+### Features
+
+* **dkim:** add dkim optional parameter to send mail options ([aab5810](https://github.com/Gypp/mailer/commit/aab58107adcbdb3582813915373e6c90354adab6))
+
+
+### Bug Fixes
+
+* **deps:** update nest monorepo to v7.1.2 ([ec73bba](https://github.com/Gypp/mailer/commit/ec73bbaedc7a2589cff10e4f1401a2dac1e6420a))
+* **deps:** update nest monorepo to v7.1.3 ([242ea94](https://github.com/Gypp/mailer/commit/242ea94c25d9da5b00b43ab6e4f518ff61b5559b))
+
 ### [1.5.1](https://github.com/nest-modules/mailer/compare/v1.5.0...v1.5.1) (2020-06-02)
 
 
